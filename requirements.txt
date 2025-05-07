@@ -1,0 +1,13 @@
+requests
+pandas
+newsapi-python
+matplotlib
+seaborn
+langchain
+ratelimit
+polygon-api-client
+numpy
+statsmodels
+scikit-learn
+tensorflow
+yfinance
